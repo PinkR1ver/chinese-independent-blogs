@@ -11,10 +11,16 @@
 
 ## 目录
 
-- [博客列表](#博客列表)
-- [什么是独立博客](#什么是独立博客)
-  - [如何提交](#如何提交)
-- [为什么要收集这张列表](#为什么要收集这张列表)
+- [中文独立博客列表](#中文独立博客列表)
+  - [Sponsors](#sponsors)
+  - [目录](#目录)
+  - [博客列表](#博客列表)
+  - [什么是独立博客](#什么是独立博客)
+    - [如何提交](#如何提交)
+  - [为什么要收集这张列表](#为什么要收集这张列表)
+  - [Thanks](#thanks)
+  - [博客构建工具推荐](#博客构建工具推荐)
+  - [博客部署工具推荐](#博客部署工具推荐)
 
 ## 博客列表
 
@@ -861,7 +867,7 @@
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/http%3A%2F%2Finformal.top%2Ffeed.xml)                                                      | informal                   | http://www.informal.top/                                    | 技术; 随笔; NLP; 生活                                                 |
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fblognas.hwb0307.com%2Ffeed%2F)                                               | 浮云翩迁之间                     | https://blognas.hwb0307.com                                 | Docker; Linux; 生物医学                                             |
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fwww.226yzy.com%2Fatom.xml)                                                   | 星空下的YZY                    | https://www.226yzy.com                                      | 编程; 学习; 随笔; 生活                                                  |
-| [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fpinkr1ver.com%2Ffeed.xml)                                                    | PinkR1ver Studio           | https://pinkr1ver.com/                                      | 成长; 生活; 综述; 思考                                                  |
+| [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fpinktalk.online%2Ffeed.xml)                                                    | 🎣 JudeW's Knowledge Brain           | https://pinktalk.online/                                      | 成长; 生活; 综述; 思考                                                  |
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fsakurawald.github.io%2Fsitemap.xml)                                          | SakuraWald                 | https://sakurawald.github.io/                               | 编程                                                              |
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fwww.imcao.cn%2Fatom.xml)                                                     | ImCaO's Blog               | https://www.imcao.cn/                                       | 编程; 生活                                                          |
 | [<img src="https://img.shields.io/static/v1?label=follow&message=-1&style=social&logo=rss">](https://feeds.pub/feed/https%3A%2F%2Fwww.nonedata.com%2Frss.xml)                                                  | NoneData                   | https://www.nonedata.com/                                   | 编程; 前端; 生活; 技术                                                  |
